@@ -20,6 +20,11 @@ SHA1: a535f7c1255e850f1a8b6ecd7919425e06b5d4e6
 SHA256: 83082cfb597f924f053313e8b27aec76a2ccf31ea3d2f11478a6c89f309bd673
 SHA512: e0ac08ac6fab7159539d9a0e02ddfd4abf312a287a58cc7196674248027ed3322a86322e81af77fec1218511c0bbb6d43144534041506da76edac53a42d35d3d 
 
+Fourth Version EXE file hashes (bugfixes);
+MD5: 70b50a7ac338d7f40deeb075be863395
+SHA1: dce6bbdf20503ae19224fd829c87263efbef1ac0
+SHA256: 3c52df24e00fa8e74046b4532070da15537c5c0d93a48632912694af1becc85a
+SHA512: 3ba26e36b63c6bd7a6eb4a62259092c755d4337f6145a28c65135e795f28f57f180d471de3c62d8e44c67631796959b69fb1a108118af1a42a5beb467b84d458 
 
 Use these hashes to verify that you have the application created by me, this way you can ensure safety. I will not provide support to anyone who obtains the executable/source code from an unknown source as anyone can add malware to a project, even the creator.
 
