@@ -26,6 +26,12 @@ SHA1: dce6bbdf20503ae19224fd829c87263efbef1ac0
 SHA256: 3c52df24e00fa8e74046b4532070da15537c5c0d93a48632912694af1becc85a
 SHA512: 3ba26e36b63c6bd7a6eb4a62259092c755d4337f6145a28c65135e795f28f57f180d471de3c62d8e44c67631796959b69fb1a108118af1a42a5beb467b84d458 
 
+Fifth Version EXE file hashes (offline support, no more multiboxing, bugfixes, titlebar color);
+MD5: 50347b15e0deb3dceda3611099442318
+SHA1: 6d558983df9644c97026e3691caf7648f3ada02b
+SHA256: 90a43fd14004b36ffb22c70ce1a04b69afa999d8a89bb01a08e36f5d80c0c10d
+SHA512: 1f094ad6894a7f9a794e62c907e34f15143ed77aad6a75f69a5952a7a497b6e3d548b3533f80227ea9d165f0939c00acc6e6394f8ded8256f6321356f8c70ff0 
+
 Use these hashes to verify that you have the application created by me, this way you can ensure safety. I will not provide support to anyone who obtains the executable/source code from an unknown source as anyone can add malware to a project, even the creator.
 
 The command I used to build this from the source code into executable format is "pyinstaller --onefile --add-data "NotoEmoji-Regular.ttf;." --add-data "app.ico;." --icon=app.ico --noconsole --name CrystalRealms-EmojiPicker crystalrealmsemojipicker.py". 
